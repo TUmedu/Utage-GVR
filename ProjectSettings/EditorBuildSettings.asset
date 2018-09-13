@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/vr+quiz.unity
-    guid: 11a0cfaab749ac14da45e2dc05a6799f
+    path: Assets/test.unity
+    guid: d4467f675f36edb46b44505ef257c51f
